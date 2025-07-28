@@ -16,9 +16,10 @@ See [`prompt.txt`](./prompt.txt) for the exact prompt used in Google AI Studio.
 
 ## 🌐 Live App
 
-Access the deployed app here: [[AI Resume Reviewer Live](https://your-cloud-run-link](https://ai-resume-reviewer-408860617009.us-west1.run.app))
+Access the deployed app here: [AI Resume Reviewer Live](https://ai-resume-reviewer-408860617009.us-west1.run.app)
 
-_(Update the above link after you deploy it via Google AI Studio)_
+
+
 
 ## 🛠 Tech Stack
 
@@ -29,8 +30,29 @@ _(Update the above link after you deploy it via Google AI Studio)_
 
 ```bash
 .
-├── README.md
+├── components/
+│   ├── Header.tsx
+│   ├── icons.tsx
+│   ├── ResumeInput.tsx
+│   └── ReviewOutput.tsx
+├── services/
+│   └── geminiService.ts
+├── .env.local
+├── .gitignore
+├── App.tsx
+├── How long does it usually take you to.pptx
+├── index.html
+├── index.tsx
+├── metadata.json
+├── package.json
 ├── prompt.txt
-├── app_link.md   # Optional
-└── slides/
-    └── How_long_does_it_usually_take_you_to.pptx
+├── README.md
+├── tsconfig.json
+└── vite.config.ts
+
+The Ai Resume app will look like this
+
+<img width="1504" height="882" alt="image" src="https://github.com/user-attachments/assets/235112b1-fc73-4489-b293-ab62645a8869" />
+
+
+
