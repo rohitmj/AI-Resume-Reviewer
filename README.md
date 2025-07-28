@@ -30,8 +30,28 @@ Access the deployed app here: [AI Resume Reviewer Live](https://ai-resume-review
 
 ```bash
 .
-├── README.md
+├── components/
+│   ├── Header.tsx
+│   ├── icons.tsx
+│   ├── ResumeInput.tsx
+│   └── ReviewOutput.tsx
+├── services/
+│   └── geminiService.ts
+├── .env.local
+├── .gitignore
+├── App.tsx
+├── How long does it usually take you to.pptx
+├── index.html
+├── index.tsx
+├── metadata.json
+├── package.json
 ├── prompt.txt
-├── app_link.md   # Optional
-└── slides/
-    └── How_long_does_it_usually_take_you_to.pptx
+├── README.md
+├── tsconfig.json
+└── vite.config.ts
+
+The Ai Resume app will look like this
+
+![Uploading image.png…]()
+
+
