@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Reviewer",
+  "description": "An intelligent assistant to help you improve your resume. Get feedback on strengths, weaknesses, and modern job market trends to make your resume stand out.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
