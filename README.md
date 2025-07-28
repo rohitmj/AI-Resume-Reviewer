@@ -52,6 +52,7 @@ Access the deployed app here: [AI Resume Reviewer Live](https://ai-resume-review
 
 The Ai Resume app will look like this
 
-![Uploading image.png…]()
+<img width="1504" height="882" alt="image" src="https://github.com/user-attachments/assets/235112b1-fc73-4489-b293-ab62645a8869" />
+
 
 
