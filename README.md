@@ -14,13 +14,6 @@ This app helps job seekers:
 
 See [`prompt.txt`](./prompt.txt) for the exact prompt used in Google AI Studio.
 
-## 🌐 Live App
-
-Access the deployed app here: [AI Resume Reviewer Live](https://ai-resume-reviewer-408860617009.us-west1.run.app)
-
-
-
-
 ## 🛠 Tech Stack
 
 - **Google AI Studio** – For building and testing the AI prompt
