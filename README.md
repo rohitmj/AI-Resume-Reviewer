@@ -50,11 +50,7 @@ Access the deployed app here: [AI Resume Reviewer Live](https://ai-resume-review
 ├── tsconfig.json
 └── vite.config.ts
 
-## 🖼️ App Preview
 
-The AI Resume Reviewer app looks like this:
-
-![AI Resume Screenshot](./ai-resume-screenshot.png)
 
 
 
